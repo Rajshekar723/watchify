@@ -1,0 +1,18 @@
+00:00:00.829643 VirtualBox GUI VM Selector Window 6.1.18 r142142 win.amd64 (Jan  7 2021 15:32:19) release log
+00:00:00.829645 Log opened 2022-08-26T14:02:24.397781200Z
+00:00:00.829645 Build Type: release
+00:00:00.829647 OS Product: Windows 10
+00:00:00.829648 OS Release: 10.0.22622
+00:00:00.829649 OS Service Pack: 
+00:00:00.842297 DMI Product Name: 82AU
+00:00:00.845823 DMI Product Version: Lenovo Legion 5 15IMH05
+00:00:00.845829 Firmware type: UEFI
+00:00:00.846125 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.846137 Host RAM: 8099MB (7.9GB) total, 3121MB (3.0GB) available
+00:00:00.846140 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.846141 Process ID: 23560
+00:00:00.846141 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.846555 Qt version: 5.6.2
+00:00:00.898200 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.922605 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:01.949123 refreshCertificates/#3: Found 1/95 SSL certs we/you trust (previously 1/89).
